@@ -1,4 +1,4 @@
-# Dissertation_Electrek_Explorer
+# Data Analysis and Developing Tools to Enable High-Adventure, Low-impact EV-Tourism in Scotland 
   Growing concerns about climate change, as well as worries about people’s over-reliance on fossil fuels for transportation, have compelled governments and policymakers to encourage people to use alternative energy transportation. With renewable resources in electricity production, electric vehicle (EV) technology has become the most popular among these alternatives. As such, there are incredibly ambitious plans to electrify Scotland car transport by 2030. However, there are also numerous barriers to overcome in this respect. 
 <br />
   Due to the drawbacks of EVs, such as limited range or long and uncertain charging time, people avoid using electric vehicles, especially when planning long trips. Considering the inadequacy of the charging infrastructure, they do not see EVs as an option in their countryside trips due to the range anxiety, a phenomenon that can be defined as the fear of running out of power before reaching a charging station (Gollapudi and Kollias, 2021). This fear is especially the case for models that are pure battery powered (BEVs). 
@@ -12,9 +12,26 @@
 <br />
   In line with Electrek Explorer's objective, the extensive maps and EV planning function of this study provide eco-tourists with precise range and energy-efficient routes for a variety of vacation types and natural destinations, ensuring that they arrive at their destinations in comfort. As a consequence, it aims to eliminate the potential barriers to the widespread adaption of electric vehicles and encourage further EV use in the tourism industry.
 
-<br />
-<br />
-<br />
+
+### Language:
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+<br /><br />
+
 ### Connect with me:
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br /><br />
+[Yusuf Mahir Nartok](mailto:yusufmahirnartok@gmail.com?subject=[GitHub]%20Disseration%20Code)
+<br />
+University of Edinburgh
+<br />
+MSc. Business Analytics 
+
+<br />
+<br />
+
+---
+
+
 [linkedin]: https://www.linkedin.com/in/yusufmahirnartok/
