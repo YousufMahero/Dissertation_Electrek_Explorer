@@ -12,7 +12,6 @@
 <br />
   In line with Electrek Explorer's objective, the extensive maps and EV planning function of this study provide eco-tourists with precise range and energy-efficient routes for a variety of vacation types and natural destinations, ensuring that they arrive at their destinations in comfort. As a consequence, it aims to eliminate the potential barriers to the widespread adaption of electric vehicles and encourage further EV use in the tourism industry.
 
-
 ### Language:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
