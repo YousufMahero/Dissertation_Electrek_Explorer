@@ -11,11 +11,12 @@
   As the last feature, the EV routing algorithm is designed to give the quickest energy-efficient route with a charging strategy. With given information by the user about EV and itinerary, a route that answers questions such as where to charge and how much is created, and the determined charging stations are inserted to the route. In order to achieve meaningful outcomes in practice, realistic energy consumption and charging time functions that consider external factors such as temperature and road topology are designed. Also, partial charging schemes and non-linear charging functions under different charging strategies are allowed in the model. Although low estimation is made for energy consumption when comparing the model with applications with similar functions in the market, satisfactory results is achieved in the estimation of charging times. It was also aimed to increase motivation for EV use by adding carbon emissions to the output report, which is offered only in paid applications.
 <br />
   In line with Electrek Explorer's objective, the extensive maps and EV planning function of this study provide eco-tourists with precise range and energy-efficient routes for a variety of vacation types and natural destinations, ensuring that they arrive at their destinations in comfort. As a consequence, it aims to eliminate the potential barriers to the widespread adaption of electric vehicles and encourage further EV use in the tourism industry.
+<br />
 
+You can check out a sample map here: https://dissertation-electrek.netlify.app/
+<br />
+<br />
 
-You can check out the website here: https://dissertation-electrek.netlify.app/
-
-![](sample-map-website-diagram.png)
 
 ### Language:
 
