@@ -32,7 +32,7 @@ You can check out a sample map here: https://dissertation-electrek.netlify.app/
 <br />
 University of Edinburgh
 <br />
-MSc. Business Analytics 
+*MSc. Business Analytics* 
 
 <br />
 <br />
